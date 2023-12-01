@@ -12,4 +12,5 @@ namespace Examen_azb_R.Clases
         public string Modelo { get; set; }
         public string AñioDeFabricacion { get; set; }
     }
+   
 }
