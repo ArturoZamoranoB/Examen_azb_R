@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen_azb_R", "Examen_azb_R.csproj", "{73BAFB6A-3A56-4622-BE4E-FCDA94C1C9F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BAFB6A-3A56-4622-BE4E-FCDA94C1C9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BAFB6A-3A56-4622-BE4E-FCDA94C1C9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BAFB6A-3A56-4622-BE4E-FCDA94C1C9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BAFB6A-3A56-4622-BE4E-FCDA94C1C9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630F4E8C-B0E2-4BD1-873B-58BF7E3726F1}
+	EndGlobalSection
+EndGlobal
